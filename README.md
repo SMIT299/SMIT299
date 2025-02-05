@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Smit Ranpariya (@SMIT299)
+# 👋 Hello, I'm Smit Ranpariya
 
 ## 🚀 About Me
 I am a detail-oriented **Business Analyst & Data Analyst** with a passion for leveraging data to drive strategic decision-making. With expertise in **data visualization, business intelligence, and predictive analytics**, I thrive on transforming raw data into meaningful insights that enhance operational efficiency and business growth.
